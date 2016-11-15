@@ -7,7 +7,7 @@ We could find all values in AD application "ARMTemplate" in Azure portal. At cur
 2. Get SQL Database info
 3. Get Resource Group info
 
-*Please note** we need to add "Windows Azure Service Management API" in portal "Required permissions" like the following screenshot:
+*Please note* we need to add "Windows Azure Service Management API" in portal "Required permissions" like the following screenshot:
 
 ![](ad-permission.PNG)
 
