@@ -9,8 +9,8 @@ We could find all values in AD application "ARMTemplate" in Azure portal. At cur
 
 *Please note** we need to add "Windows Azure Service Management API" in portal "Required permissions" like the following screenshot:
 
-
+![](ad-permission.PNG)
 
 and we need assign "Contributor" for this service principal:
 
-  PS C:\Users\v-jayao> New-AzureRmRoleAssignment -RoleDefinitionName Contributor -ServicePrincipalName 'applicationID'
+`PS C:\Users\v-jayao> New-AzureRmRoleAssignment -RoleDefinitionName Contributor -ServicePrincipalName 'applicationID'`
