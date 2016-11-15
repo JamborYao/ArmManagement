@@ -14,3 +14,5 @@ We could find all values in AD application "ARMTemplate" in Azure portal. At cur
 and we need assign "Contributor" for this service principal:
 
 `PS C:\Users\v-jayao> New-AzureRmRoleAssignment -RoleDefinitionName Contributor -ServicePrincipalName 'applicationID'`
+
+详细请阅读：[https://blogs.technet.microsoft.com/stefan_stranger/2016/10/21/using-the-azure-arm-rest-apin-get-access-token/](https://blogs.technet.microsoft.com/stefan_stranger/2016/10/21/using-the-azure-arm-rest-apin-get-access-token/)
