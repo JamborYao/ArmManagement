@@ -1,0 +1,12 @@
+﻿{
+  "ARMTemplate": {
+    "clientid": "19a95523-c47a-4f33-8b97-6251cef5e19f",
+    "clientsecret": "Nu2KgbDi5J04J27t3qRrRXM6aLw63hp+OMUsizCqCs8=",
+    "returnurl": "http://localhost:20190",
+    "telnantid": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+    "authurl": "https://login.microsoftonline.com/",
+    "resource": "https://management.core.windows.net/"
+  },
+  "subscription": "ed0caab7-c6d4-45e9-9289-c7e5997c9241"
+}
+
